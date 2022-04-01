@@ -1,0 +1,1 @@
+require('./mint ERC721.js');
